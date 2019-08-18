@@ -10,10 +10,10 @@ while i < num
   end 
   i+=1
 end 
-binding.pry
+
 else false 
 end 
-
+binding.pry
 if divis == [1,num]
   puts true 
 else
