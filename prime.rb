@@ -15,9 +15,9 @@ else false
 end 
 #binding.pry
 if divis == [1,num]
-  puts true 
+  true 
 else
-  puts false
+  false
 end 
 end 
 
