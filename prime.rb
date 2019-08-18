@@ -21,4 +21,4 @@ else
 end 
 end 
 
-prime?(-3)
+prime?(3)
