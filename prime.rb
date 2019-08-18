@@ -13,7 +13,7 @@ end
 
 else false 
 end 
-binding.pry
+#binding.pry
 if divis == [1,num]
   puts true 
 else
